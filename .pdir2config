@@ -1,0 +1,5 @@
+[global]
+doc-color = black
+category-color = bright magenta
+attribute-color = bright blue
+comma-color = black
